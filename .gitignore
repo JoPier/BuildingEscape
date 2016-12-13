@@ -1,3 +1,19 @@
+==========================
+# Unreal Generated Files #
+==========================
+
+*Build
+*Binaries
+*DerivedDataCache
+*Intermediate
+*Saved
+/Content/StarterContent/
+
+======================
+# VS Generated Files #
+======================
+*.VC.db
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -29,9 +45,11 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Thumbnails
+
 ._*
 
 # Files that might appear in the root of a volume
+
 .DocumentRevisions-V100
 .fseventsd
 .Spotlight-V100
@@ -40,8 +58,11 @@ $RECYCLE.BIN/
 .VolumeIcon.icns
 
 # Directories potentially created on remote AFP share
+
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
